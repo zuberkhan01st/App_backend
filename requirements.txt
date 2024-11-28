@@ -5,3 +5,4 @@ Flask-JWT-Extended
 Flask-PyMongo
 python-dotenv
 pymongo
+gunicorn
